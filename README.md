@@ -1,2 +1,1 @@
-My excercises when following the stanford algorithm courses.
-https://lagunita.stanford.edu/courses/course-v1:Engineering+Algorithms1+SelfPaced/about
+My code exercises when following the stanford algorithm courses [part1](https://lagunita.stanford.edu/courses/course-v1:Engineering+Algorithms1+SelfPaced/about) and [part2](https://lagunita.stanford.edu/courses/course-v1:Engineering+Algorithms2+SelfPaced/about).
